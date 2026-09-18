@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# IntelliJ / PyCharm
+.idea/
+*.iml
+
+# Generated data
+data/processed/*.csv
+
+# Trained models
+models/*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
