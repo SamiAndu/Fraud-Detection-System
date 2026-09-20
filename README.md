@@ -39,11 +39,41 @@ LOW / MEDIUM / HIGH
 ▼
 Streamlit Dashboard
 
+
 The goal is to combine the explainability of deterministic rules with the pattern-recognition capabilities of machine learning.
 
-⸻
+## Dashboard
 
-Key Features
+The project includes an interactive Streamlit dashboard for monitoring transaction risk, investigating individual transactions, and reviewing high-risk activity.
+
+### Main Dashboard
+
+![Fraud Detection Dashboard](docs/dashboard1.png)
+
+### Risk Analytics
+
+![Risk Analytics](docs/dashboard2.png)
+
+### Transaction Analysis
+
+![Transaction Analysis](docs/dashboard3.png)
+
+⸻
+## Dashboard
+
+The project includes an interactive Streamlit dashboard for monitoring transaction risk, investigating individual transactions, and reviewing high-risk activity.
+
+### Main Dashboard
+
+![Fraud Detection Dashboard](docs/dashboard1.png)
+
+### Risk Analytics
+
+![Risk Analytics](docs/dashboard2.png)
+
+### Transaction Analysis
+
+![Transaction Analysis](docs/dashboard3.png)
 
 * Synthetic transaction dataset generation
 * Rule-based transaction monitoring
