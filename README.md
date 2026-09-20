@@ -42,6 +42,10 @@ Streamlit Dashboard
 
 The goal is to combine the explainability of deterministic rules with the pattern-recognition capabilities of machine learning.
 
+## System Architecture
+
+![Fraud Detection System Architecture](docs/architecture.png)
+
 ## Dashboard
 
 The project includes an interactive Streamlit dashboard for monitoring transaction risk, investigating individual transactions, and reviewing high-risk activity.
